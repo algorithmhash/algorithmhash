@@ -8,5 +8,4 @@
 - 🤔 I’m looking for help with some repos of mine with issues.
 - 💬 Ask me about anything code related.
 - 📫 How to reach me: complexalgorithminserthere@gmail.com
-- ⚡ Fun fact: Just a humble coder.
-
+- ⚡ Fun fact: Just a humble coder that loves space and creating tools that help the World and everything that lives on it.
